@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------
+Harsh Kashyap
+101917088
+Thapar
+--------------------------------------------------------------------------
+
+
+Non numerical Values Count :
+For Column P1 : 30
+For Column P2 : 36
+For Column P3 : 40
+For Column P4 : 4
+For Column P5 : 9
+For Column P6 : 0
+For Total : 119
+--------------------------------------------------------------------------
+
+Null Values Count :
+For Column P1 : 12
+For Column P2 : 7
+For Column P3 : 12
+For Column P4 : 0
+For Column P5 : 1
+For Column P6 : 0
+For Total : 32
+--------------------------------------------------------------------------
+
+MEAN Values Count :
+For Column P1 : 10.873994638069705
+For Column P2 : 10.715817694369973
+For Column P3 : 9.71313672922252
+For Column P4 : 2.026809651474531
+For Column P5 : 1.2332439678284182
+For Column P6 : 0.0
+For Total : 0.09266220557899502
+--------------------------------------------------------------------------
+
+MEDIAN Values Count :
+For Column P1 : 13.0
+For Column P2 : 13.0
+For Column P3 : 13.0
+For Column P4 : 0.0
+For Column P5 : 0.0
+For Column P6 : 0.0
+For Total : 0.19721984632966527
+--------------------------------------------------------------------------
+
+MINIMUM Values  :
+For Column P1 : 0
+For Column P2 : 0
+For Column P3 : 0
+For Column P4 : 0
+For Column P5 : 0
+For Column P6 : 0
+For Total : 0.19721984632966527
+--------------------------------------------------------------------------
+
+MAXIMUM Values  :
+For Column P1 : 15
+For Column P2 : 15
+For Column P3 : 15
+For Column P4 : 15
+For Column P5 : 15
+For Column P6 : 0
+For Total : 0.3982922323886465
+--------------------------------------------------------------------------
+
+STANDARD DEVIATION  Values  :
+For Column P1 : 5.778872752561155
+For Column P2 : 6.008926307130482
+For Column P3 : 6.44711855910265
+For Column P4 : 4.995086807420872
+For Column P5 : 3.971236561164331
+For Column P6 : 0.0
+For Total : 0.4712178114432832
+--------------------------------------------------------------------------

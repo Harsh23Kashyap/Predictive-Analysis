@@ -1,0 +1,33 @@
+
+--------------------------------------------------------------------------
+
+HARSH KASHYAP
+LOG ERRORS OF ALL KIND WITH TIME
+
+New Execution
+FOR QUESTION 1
+30/01/2022 19:01:22- 	Not a csv file. -'Hi' . - Please enter a csv file
+30/01/2022 19:01:23- 	Not a csv file. -'input' . - Please enter a csv file
+30/01/2022 19:01:26- 	Not the correct csv file. 'credits.csv' . Columns expected to be [RollNumber, Submission, Marks]. Instead got Index(['cast', 'crew', 'id'], dtype='object')30/01/2022 19:01:32- 	Wrong file path
+30/01/2022 19:01:32- 	[Errno 2] No such file or directory: 'rating.csv'
+30/01/2022 19:01:35- 	Wrong file path
+30/01/2022 19:01:35- 	[Errno 2] No such file or directory: 'Answer.csv'
+30/01/2022 19:01:43- 	The file contains empty values.
+30/01/2022 19:01:43- 	The file contains X values.
+
+--------------------------------------------------------------------------
+New Execution
+FOR QUESTION 2
+30/01/2022 19:01:52- 	Not a correct csv file.input.csv- 	Number of Columns not right. Expected 3. Got 3
+30/01/2022 19:01:57- 	Wrong file path
+30/01/2022 19:01:57- 	[Errno 2] No such file or directory: 'answer.csv'
+30/01/2022 19:02:00- 	Wrong file path
+30/01/2022 19:02:00- 	[Errno 2] No such file or directory: '10197088-output.csv'
+30/01/2022 19:02:26- 	The file contains X values. Replacing them with median.
+30/01/2022 19:02:26- 	The file contains empty values. Replacing them with median.
+
+--------------------------------------------------------------------------
+New Execution
+FOR QUESTION 2
+30/01/2022 20:04:23- 	The file contains X values. Replacing them with median.
+30/01/2022 20:04:23- 	The file contains empty values. Replacing them with median.
