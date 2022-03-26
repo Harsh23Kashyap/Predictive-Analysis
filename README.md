@@ -15,6 +15,7 @@ Characteristics
 
 
 Data analytics helps in:
+
  Scientific decision making and effective business
 operations.
 
